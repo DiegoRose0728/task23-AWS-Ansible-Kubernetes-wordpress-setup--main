@@ -1,1 +1,1 @@
-# task23-AWS-Ansible-Kubernetes-wordpress-setup--main
+Creating a Wordpress and MySQL server on Kubernetes multinode cluster hosted on the AWS Cloud
